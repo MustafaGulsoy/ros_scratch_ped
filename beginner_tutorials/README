@@ -1,4 +1,4 @@
-ilk olarak çalışmtırmak için 
+çalışmtırmak için 
 roscore
 yeni terminal
 rosrun beginner_tutorials talker2.py
