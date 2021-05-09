@@ -1,0 +1,8 @@
+ilk olarak çalışmtırmak için 
+roscore
+yeni terminal
+rosrun beginner_tutorials talker2.py
+yeni teminal 
+rosrun beginner_tutorials talker.py
+yeni terminal
+rosrun beginner_tutorials listener.py
